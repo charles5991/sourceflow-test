@@ -1,22 +1,39 @@
 {
   "pages": {
-    "/(default)/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/(default)/page.css",
-      "static/chunks/app/(default)/page.js"
-    ],
-    "/(default)/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/(default)/layout.css",
-      "static/chunks/app/(default)/layout.js"
+    "/_not-found": [
+      "static/chunks/webpack-39d781b02e6bca12.js",
+      "static/chunks/fd9d1056-4860c96fdc82998a.js",
+      "static/chunks/864-c26ba45423f652c2.js",
+      "static/chunks/main-app-a7417ed33586a373.js",
+      "static/chunks/app/_not-found-b8c71b44dbe49e80.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-39d781b02e6bca12.js",
+      "static/chunks/fd9d1056-4860c96fdc82998a.js",
+      "static/chunks/864-c26ba45423f652c2.js",
+      "static/chunks/main-app-a7417ed33586a373.js",
+      "static/css/b04170d2e9e24add.css",
+      "static/chunks/app/layout-03b12a961abbd418.js"
+    ],
+    "/(default)/layout": [
+      "static/chunks/webpack-39d781b02e6bca12.js",
+      "static/chunks/fd9d1056-4860c96fdc82998a.js",
+      "static/chunks/864-c26ba45423f652c2.js",
+      "static/chunks/main-app-a7417ed33586a373.js",
+      "static/chunks/176-cd5155e66c8d29cc.js",
+      "static/css/f76788cadc76491e.css",
+      "static/chunks/879-dc916965573c5fbd.js",
+      "static/chunks/app/(default)/layout-4940b0a5ff887e90.js"
+    ],
+    "/(default)/page": [
+      "static/chunks/webpack-39d781b02e6bca12.js",
+      "static/chunks/fd9d1056-4860c96fdc82998a.js",
+      "static/chunks/864-c26ba45423f652c2.js",
+      "static/chunks/main-app-a7417ed33586a373.js",
+      "static/chunks/176-cd5155e66c8d29cc.js",
+      "static/chunks/121-739838f5c4942739.js",
+      "static/css/7e27ea7df354544a.css",
+      "static/chunks/app/(default)/page-4874beb215ad39f4.js"
     ]
   }
 }
